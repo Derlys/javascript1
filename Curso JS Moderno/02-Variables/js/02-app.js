@@ -1,7 +1,11 @@
-let producto = 'tablet';
+let producto = "Tablet";
 
 //reasignar el valor
 
-producto = 'monitor';
+producto = "monitor";
 
 console.log(producto);
+
+let precio;
+
+precio = 3000;

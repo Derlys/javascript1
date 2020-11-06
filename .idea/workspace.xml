@@ -25,10 +25,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f8c4c10f-0967-4a96-812b-d3d4d2ea1108" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Curso JS Moderno/02-Variables/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Curso JS Moderno/02-Variables/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso JS Moderno/02-Variables/js/01-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Curso JS Moderno/02-Variables/js/01-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso JS Moderno/02-Variables/js/02-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Curso JS Moderno/02-Variables/js/02-app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso JS Moderno/02-Variables/js/03-app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Curso JS Moderno/02-Variables/js/03-app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

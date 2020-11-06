@@ -1,11 +1,9 @@
-const producto = 'tablet';
+// no se pueden reasignar
 
-//reasignar el valor
-
-//producto = 'monitor';
+const producto = "tablet";
 
 console.log(producto);
+//deben tener un valor para iniciar
 
 const precio = 20;
-
 console.log(precio);
